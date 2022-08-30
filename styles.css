@@ -101,6 +101,9 @@ h1,h3{
 }
 
 @media (max-width:545px) {
+  .container{
+    padding: 5px 5px;
+  }
   .skill__list{
     display: grid;
     grid-template-columns: auto auto auto;
