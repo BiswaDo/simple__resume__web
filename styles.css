@@ -16,6 +16,7 @@ hr{
   margin-top: 8px;
   height: 3px;
   opacity: .5;
+  border:none;
 }
 
 h1,h3{
