@@ -55,6 +55,7 @@ h1,h3{
   height: 150px;
   justify-content: center;
   grid-column-gap: 50px;
+  font-weight: lighter;
 }
 
 .shift{
@@ -79,6 +80,15 @@ h1,h3{
   font-family: "Material Icons";
 }
 
+.btn{
+  position: fixed;
+  top:1rem;
+  right:1rem;
+  width:2rem;
+  height: 2rem;
+  background:#444;
+  border-radius: 50%;
+}
 /* ------------------------mobile--Version---------------------------------- */
 
 @media (max-width:680px) {
